@@ -1,7 +1,7 @@
 Panasonic-LF20-control
 ======================
 
-Perl Scripts to control the Panasonic LF20 LCD TV Series
+Perl Scripts to setup and control the Panasonic LF20 LCD TV Series
 
 
 Setup
